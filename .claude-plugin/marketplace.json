@@ -1,0 +1,11 @@
+{
+  "name": "henry-donyu",
+  "owner": { "name": "株式会社ヘンリー 導入部" },
+  "plugins": [
+    {
+      "name": "nyan",
+      "description": "電子カルテ導入プロセスの進捗評価と通知",
+      "source": { "source": "github", "repo": "ToshiyaKumagai/nyan" }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "nyan",
+  "description": "Henry の病院導入プロセスを支えるプラグイン。donyu-standard の18件のマイルストーンで案件の進捗を評価し、Notion のマイルストーン DB に書き、Slack に更新と事実確認を投稿する。",
+  "version": "0.1.0",
+  "author": { "name": "株式会社ヘンリー 導入部" },
+  "repository": "https://github.com/ToshiyaKumagai/nyan",
+  "license": "UNLICENSED"
+}
