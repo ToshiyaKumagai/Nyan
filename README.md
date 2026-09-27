@@ -29,4 +29,4 @@ Notion と Slack は claude.ai のコネクタを使う（プラグインに MCP
 | プロセス | `progress`・`notify` | 業務の手順。利用者が呼ぶのはここだけ |
 | ツール | `tool-notion-minutes`・`tool-notion-milestone-db`・`tool-notion-weekly-review`・`tool-project-sources`・`tool-slack-post` | 外部システムの読み書きの作法。判断をしない |
 
-依存は プロセス → フロー・ツール の一方向だけ。設計の経緯は `docs/design.md`（2026-09-24 の設計。Notion の構成は 2026-09-27 に横断DBへ変わった。現行はスキルを正とする）。
+依存は プロセス → フロー・ツール の一方向だけ。設計は `docs/design.md`。
