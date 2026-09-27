@@ -3,6 +3,7 @@
 - 起案：2026-09-24（導入部）。v2 は同日の決定（11章）を反映した版
 - 名前の由来：Jean（bw-company/jean）にちなんで **nyan**
 - この文書は donyu-standard の `proposals/` から移した設計書（2026-09-24）。叩き台の実体はこのリポジトリのルート
+- **2026-09-27 の構成変更**：Notion の案件ごとのDBは廃止され、3本の横断DB（導入議事録DB・導入マイルストーンDB・導入週次レビューDB）に集約された。この文書の5章（入力の所在）・6章（マイルストーン DB）・7章の「ページの節」・8章の Notion のリンク先・付録A の「標準の節目」は当時の記録で、現行ではない。現行の構成は各スキル（`tool-notion-minutes`・`tool-notion-milestone-db`・`tool-notion-weekly-review`・`flow-donyu` の順序とカードの対応表）を正とする
 
 ---
 
